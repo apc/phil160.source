@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Welcome"
+date: 2014-01-22 21:14:35 -0500
+comments: false
+categories: [announcements]
+---
+
+This is the website for PHIL 160 at [UMass Amherst](http://www.umass.edu). Announcements, readings, and other relevant information will be posted here. If you are enrolled in this class, you should be checking [this website](http://perezcarballo.org/phil160) regularly, as well as the [course calendar](http://perezcarballo.org/phil160/calendar).
+
+For your convenience, I have set up a mailing list for this course. I encourage you to subscribe in order to be notified of announcements on this site. Note, however, that you will only be notified of updates to the site once a day. (If there are no new updates on a given day, you will receive no emails.)
+
+<!-- more -->
+
+I have also set up a [Moodle page](https://moodle.umass.edu/course/view.php?id=13334) for this website. However, we will only use that page for two purposes: you will submit your assignments there, and you will be able to review your grades for the course. If I ever need you to check the [Moodle page](https://moodle.umass.edu/course/view.php?id=13334) I will make sure to make an announcement [on this page](http://perezcarballo.org/phil160). 
+
+(Of course, your TA may well want to use Moodle for announcements to students in his or her discussion sections. Please check with your TA about this.)
+
+If you are enrolled in this class, or are thinking about enrolling, you may want to take a look at the [course syllabus](http://perezcarballo.org/phil160/syllabus). 
