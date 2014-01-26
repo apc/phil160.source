@@ -19,8 +19,12 @@ Some of the links below will take you directly to the electronic version of the 
 
 ## Readings for 1/29
 
-- R. M. Hare, "[What is wrong with Slavery?](http://www.jstor.org/stable/2264930)" 
+- R&#46; M&#46; Hare, "[What is wrong with Slavery?](http://www.jstor.org/stable/2264930)" 
 
-<!-- ## Readings for 2/3 -->
+## Readings for 2/3
 
-<!-- ## Readings for 2/5 -->
+- J. J. C. Smart, "[Extreme and restricted utilitarianism](http://www.jstor.org/stable/2216786)".
+
+## Readings for 2/5
+
+- Julia Driver, "[Contemporary consequentialism](https://moodle.umass.edu/pluginfile.php/623627/mod_resource/content/1/Driver.Contemporary.Consequentialism.pdf)"
