@@ -23,7 +23,7 @@ Some of the links below will take you directly to the electronic version of the 
 
 ## Readings for 2/3
 
-- J. J. C. Smart, "[Extreme and restricted utilitarianism](http://www.jstor.org/stable/2216786)".
+- J&#46; J&#46; C&#46; Smart, "[Extreme and restricted utilitarianism](http://www.jstor.org/stable/2216786)".
 
 ## Readings for 2/5
 
