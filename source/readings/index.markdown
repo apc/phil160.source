@@ -27,4 +27,94 @@ Some of the links below will take you directly to the electronic version of the 
 
 ## Readings for 2/5
 
+*No meeting due to inclement weather.*
+
+## Readings for 2/10
+
 - Julia Driver, "[Contemporary consequentialism](https://moodle.umass.edu/pluginfile.php/623627/mod_resource/content/1/Driver.Contemporary.Consequentialism.pdf)"
+
+## Readings for 2/12
+
+- Thomas Nagel, "[Death](https://moodle.umass.edu/mod/resource/view.php?id=463868)"
+
+## Readings for 2/18
+
+- Fred Feldman, "[Some Puzzles About the Evil of Death](http://www.jstor.org/stable/10.2307/2185300)"
+
+## Readings for 2/19
+
+- Derek Parfit, *[Reasons and Persons](https://moodle.umass.edu/mod/resource/view.php?id=470115)*, Ch. 16, sections 119-122
+
+## Readings for 2/24
+
+- Derek Parfit, *[Reasons and Persons](https://moodle.umass.edu/mod/resource/view.php?id=470117)*, Ch. 17.
+
+## Readings for 3/3
+
+- Judith Jarvis Thomson, "[Killing, Letting Die, and the Trolley Problem](http://www.jstor.org/stable/10.2307/27902416)"
+
+## Readings for 3/5
+
+- Immanuel Kant, *[Groundwork for the Metaphysics of Morals](https://moodle.umass.edu/mod/resource/view.php?id=463864)* (excerpts)
+
+## Readings for 3/10
+
+- Fred Feldman, "[Kantian Ethics](https://moodle.umass.edu/mod/resource/view.php?id=463865)"
+
+## Readings for 3/12
+
+
+- Christine Korsgaard, "[The right to lie: Kant on Dealing with Evil](http://www.jstor.org/stable/10.2307/2265252)"
+
+## Readings for 3/24
+
+- Christine Korsgaard, "[The right to lie: Kant on Dealing with Evil](http://www.jstor.org/stable/10.2307/2265252)" (continued)
+
+## Readings for 3/26
+
+
+- David Velleman, "[A right to self-termination?](http://www.jstor.org/stable/10.1086/233924)"
+
+## Readings for 3/31
+
+- David Velleman, [Beyond Price](http://www.jstor.org/stable/10.1086/523746)
+
+## Readings for 4/2
+
+- Judith Jarvis Thomson, "[A Defense of Abortion](http://www.jstor.org/stable/10.2307/2265091)" 
+
+## Readings for 4/7
+
+- Don Marquis, "[Why Abortion is Immoral](http://www.jstor.org/stable/10.2307/2026961)"
+
+<!-- OR: Feinberg, Abortion and the Conflict of Claims -->
+
+<!-- ## Readings for 4/7 -->
+
+
+
+<!-- ## Readings for 4/14
+
+- Helga Kuhse and Peter Singer, "[Should all seriously disabled infants live?]()"
+- James Rachels, "[Active and Passive Euthanasia]()"
+- Kuhse, H. and Peter Singer. "For sometimes letting--and helping--die." (pp.168-175)
+John Rawls, Judith Jarvis Thomson, Robert Nozick, Ronald Dworkin, T. M. Scanlon, Thomas Nagel. "Assisted Suicide: The Philosophers' Brief." (pp.4-9, 12-14)
+
+Anstey, Are attempts to have impaired children justified
+Levy, Deafness, Culture, and choice
+
+## Readings for 4/16
+
+## Readings for 4/23
+
+
+## Readings for 4/28
+ -->
+
+
+
+
+
+
+
+
