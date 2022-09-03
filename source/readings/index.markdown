@@ -49,43 +49,64 @@ Some of the links below will take you directly to the electronic version of the 
 
 - Derek Parfit, *[Reasons and Persons](https://moodle.umass.edu/mod/resource/view.php?id=470117)*, Ch. 17.
 
-## Readings for 3/3
+## Readings for 3/5
 
 - Judith Jarvis Thomson, "[Killing, Letting Die, and the Trolley Problem](http://www.jstor.org/stable/10.2307/27902416)"
 
-## Readings for 3/5
+## Readings for 3/7
 
-- Immanuel Kant, *[Groundwork for the Metaphysics of Morals](https://moodle.umass.edu/mod/resource/view.php?id=463864)* (excerpts)
+*No meeting.*
 
 ## Readings for 3/10
 
-- Fred Feldman, "[Kantian Ethics](https://moodle.umass.edu/mod/resource/view.php?id=463865)"
+- Immanuel Kant, *[Groundwork for the Metaphysics of Morals](https://moodle.umass.edu/mod/resource/view.php?id=463864)* (excerpts)
 
 ## Readings for 3/12
 
-
-- Christine Korsgaard, "[The right to lie: Kant on Dealing with Evil](http://www.jstor.org/stable/10.2307/2265252)"
+- Fred Feldman, "[Kantian Ethics](https://moodle.umass.edu/mod/resource/view.php?id=463865)"
 
 ## Readings for 3/24
 
-- Christine Korsgaard, "[The right to lie: Kant on Dealing with Evil](http://www.jstor.org/stable/10.2307/2265252)" (continued)
+- Christine Korsgaard, "[The right to lie: Kant on Dealing with Evil](http://www.jstor.org/stable/10.2307/2265252)"
 
 ## Readings for 3/26
+
+- Christine Korsgaard, "[The right to lie: Kant on Dealing with Evil](http://www.jstor.org/stable/10.2307/2265252)" (continued)
+
+## Readings for 3/31
 
 
 - David Velleman, "[A right to self-termination?](http://www.jstor.org/stable/10.1086/233924)"
 
-## Readings for 3/31
+## Readings for 4/2
 
 - David Velleman, [Beyond Price](http://www.jstor.org/stable/10.1086/523746)
 
-## Readings for 4/2
+## Readings for 4/7
 
 - Judith Jarvis Thomson, "[A Defense of Abortion](http://www.jstor.org/stable/10.2307/2265091)" 
 
-## Readings for 4/7
+## Readings for 4/14
+
+- Judith Jarvis Thomson, "[A Defense of Abortion](http://www.jstor.org/stable/10.2307/2265091)" 
+
+## Readings for 4/16
 
 - Don Marquis, "[Why Abortion is Immoral](http://www.jstor.org/stable/10.2307/2026961)"
+
+## Readings for 4/23
+
+- Philippa Foot, "[The Problem of Abortion and the Doctrine of the Double Effect](http://philpapers.org/archive/FOOTPO-2.1.pdf)"
+
+## Readings for 4/28
+
+- Igor Primoratz, "[Justifying Legal Punishment](https://moodle.umass.edu/mod/resource/view.php?id=493822)"
+
+## Readings for 4/30
+
+- Stephen Nathanson, "[Why We Should Put the Death Penalty to Rest](https://moodle.umass.edu/mod/resource/view.php?id=493823)"
+
+<!-- ## Readings for 4/30 -->
 
 <!-- OR: Feinberg, Abortion and the Conflict of Claims -->
 
